@@ -1,0 +1,19 @@
+{
+  "id": "./",
+  "name": "声读 · 语音读书",
+  "short_name": "声读",
+  "description": "本地导入 EPUB，用系统高拟真语音听书的极简阅读器",
+  "start_url": "./?sharecode=U6VRZZGSHM",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f7f8fa",
+  "theme_color": "#1a9e73",
+  "lang": "zh-CN",
+  "categories": ["books", "education", "utilities"],
+  "icons": [
+    { "src": "./icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
